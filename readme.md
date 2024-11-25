@@ -35,5 +35,5 @@ You can add user hash dict to update as ```Data\user_hash_dict.json``` and the c
 
 
 ### Run
-```python annonymize_script.py \path\to\data
+```python annonymize_script.py \path\to\data```
 
